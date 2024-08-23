@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/monnaie.css">
+    <title>Conversion de Monnaie</title>
+</head>
+<body>
+    <div class="contenu">
+        <h1>Conversion de Monnaie</h1>
+        <span id="message"></span>
+        <div class="bloc-conv">
+            <div class="conv">
+                <input type="number" id="nombre" min="1" placeholder="Entrez une valeur">
+                <select id="devise">
+                    <option value="euro">EURO (€)</option>
+                    <option value="usd">USD ($)</option>
+                </select>
+            </div>
+            <button type="button" onclick="convertir()">Convertir en CFA</button>
+        </div>
+        <div id="result">
+            <p><strong>Résultat : </strong> <span id="resultat">*</span> <strong>CFA</strong></p>
+        </div>
+    </div>
+    <script src="js/conversion.js"></script>
+</body>
+</html>
