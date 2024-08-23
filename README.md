@@ -17,5 +17,5 @@ Cette application simple permet de convertir une somme en USD ou EURO en CFA.
 - JavaScript
 
 ## Comment exécuter le projet
-1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/monnaie-conversion.git`
+1. Clonez le dépôt : `git clone https://github.com/giressefoyet/conversion-monnaie-euro-usd.git`
 2. Ouvrez `index.html` dans votre navigateur pour utiliser l'application.
