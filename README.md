@@ -1,2 +1,21 @@
 # conversion-monnaie-euro-usd
-Une application web pour convertir des montants entre l'Euro/USD et le CFA. Conçu avec HTML, CSS et JavaScript, ce projet permet aux utilisateurs d'entrer une valeur dans une devise et de la convertir automatiquement en CFA. Idéal pour apprendre les bases de la conversion de devises et la manipulation du DOM en JavaScript.
+Application web de conversion de devises réalisée avec les étudiants de IPME - GENITECH. Permet de convertir des montants entre Euro/USD et CFA. Conçue avec HTML, CSS, et JavaScript, elle offre une interface simple pour entrer une valeur et obtenir le montant converti. Idéale pour apprendre les bases et la manipulation du DOM en JavaScript.
+
+# Conversion de Monnaie
+
+## Description
+Cette application simple permet de convertir une somme en USD ou EURO en CFA.
+
+## Fonctionnalités
+- Saisie de la valeur à convertir.
+- Sélection de la devise (USD ou EURO).
+- Conversion en CFA.
+
+## Technologies utilisées
+- HTML
+- CSS
+- JavaScript
+
+## Comment exécuter le projet
+1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/monnaie-conversion.git`
+2. Ouvrez `index.html` dans votre navigateur pour utiliser l'application.
